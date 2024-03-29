@@ -1,6 +1,6 @@
 # Capstone-Power-BI
 RBC Customer Churn Analysis
-###INTRODUCTION
+##INTRODUCTION
 A Churn Analysis for RBC bank:
 In today's competitive banking landscape, understanding customer churn is crucial. This presentation dives into customer churn analysis, a data-driven approach to identifying why customers leave banks.
 ##Business Problem:
