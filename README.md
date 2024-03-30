@@ -59,7 +59,7 @@ Data: Kaggle dataset (2016-2019 banking churn) as a backup.
 Hardware: Personal computer with sufficient processing power & internet access.
 
 --------
-###Conclusion:
+## Conclusion: **
 
 This presentation has equipped you with insights into customer churn at RBC. By understanding the factors influencing churn, we can develop targeted strategies to retain valuable customers. Let's discuss your questions and explore how these findings can be applied to strengthen RBC's customer relationships.
 
